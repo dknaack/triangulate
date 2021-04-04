@@ -11,3 +11,5 @@ it using this library. You can compile it with `make`:
 
 	make
 	./example
+
+![Example](example.png)
